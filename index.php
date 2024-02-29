@@ -138,7 +138,7 @@
 	<?php include('templates/header.php'); ?>
 
 	<section class="container black-text">
-		<h4 class="center">Sign up</h4>
+		<h4 class="center">STUDENT Sign up</h4>
 		<form class="blue lighten-4" action="index.php" method="POST">
 			<label style="color:blue">Phone Number</label>
 			<input type="text" name="phno" value="<?php echo htmlspecialchars($phno) ?>">
