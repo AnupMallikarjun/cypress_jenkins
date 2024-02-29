@@ -21,7 +21,7 @@
 <body class="blue lighten-1">
 	<nav class="white z-depth-0">
     <div class="container">
-      <a href="index.php" class="brand-logo brand-text"><b>Scholarship</b></a>
+      <a href="index.php" class="brand-logo brand-text"><b>STUDENT Scholarship</b></a>
       <ul id="nav-mobile" class="right hide-on-small-and-down">
         <li><a href="studentLogin.php" class="btn brand z-depth-0 " style="color:black"><b>Student Login</b></a></li>
         <li><a href="adminLogin.php" class="btn brand z-depth-0" style="color:black"><b>Admin</b></a></li>
